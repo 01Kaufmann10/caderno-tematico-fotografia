@@ -2,7 +2,7 @@ Fotografia: fundamentos técnicos, composição e controle da exposição
 
 Objetivo do estudo
 
-ste projeto tem como objetivo utilizar inteligência artificial como ferramenta de aprendizagem ativa para estudar os fundamentos da fotografia. O caderno temático aborda conceitos técnicos como exposição, abertura, velocidade do obturador e ISO, além de composição, iluminação e características das lentes.
+Este projeto tem como objetivo utilizar inteligência artificial como ferramenta de aprendizagem ativa para estudar os fundamentos da fotografia. O caderno temático aborda conceitos técnicos como exposição, abertura, velocidade do obturador e ISO, além de composição, iluminação e características das lentes.
 
 O estudo será desenvolvido a partir da curadoria de fontes abertas, utilizando o NotebookLM para analisar, comparar e sintetizar os conteúdos. O resultado será um miniguia de fotografia com conceitos fundamentais, glossário e prompts reutilizáveis para futuras revisões.
 
